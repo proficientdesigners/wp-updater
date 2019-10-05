@@ -1,0 +1,17 @@
+{
+    "name": "PD Gravatat Alt",
+    "slug": "pd-gravatar-alt",
+    "download_url": "https://download.proficientdesigners.in/pd-gravatar-alt/pd-gravatar-alt.zip",
+    "version": "1.0",
+    "requires": "3.0",
+    "tested": "5.2.3",
+    "last_updated": "2019-10-05 00:00:00",
+    "upgrade_notice": "Plugin update is available.",
+    "author": "Proficient Designers",
+    "author_homepage": "https://proficientdesigners.com",
+    "sections": {
+        "description": "This is the plugin to add custom avatar",
+        "installation": "Upload the plugin to your blog, Activate it, that's it!",
+        "changelog": "<h4>So far so good !</h4><ul><li>No bugs found</li></ul>"
+    }
+}
